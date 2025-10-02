@@ -6,7 +6,6 @@
 
 <p align="center"><em>Software Developer | Gamer 🎮 | Anime & Tech Enthusiast 🚀</em></p>
 
----
 
 ### Sobre mí
 <p align="center">
@@ -14,7 +13,7 @@ Soy <strong>Desarrollador de Software</strong> apasionado por crear soluciones d
 Amo los videojuegos 🎮 y el anime, y me inspiro en ellos para mis proyectos.
 </p>
 
----
+
 
 ### 🚀 Actualmente
 <p align="center">
@@ -24,7 +23,7 @@ Amo los videojuegos 🎮 y el anime, y me inspiro en ellos para mis proyectos.
 - ⚡ Fun fact: <strong>Soy gamer y amante de la tecnología</strong> 🎮💻🎧
 </p>
 
----
+
 
 ## 🛠️ Lenguajes de Programación
 <p align="center">
@@ -37,7 +36,7 @@ Amo los videojuegos 🎮 y el anime, y me inspiro en ellos para mis proyectos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
 </p>
 
----
+
 
 ## 🗄️ Bases de Datos
 <p align="center">
@@ -47,7 +46,7 @@ Amo los videojuegos 🎮 y el anime, y me inspiro en ellos para mis proyectos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
 </p>
 
----
+
 
 ## ⚙️ Frameworks, Librerías y Motores
 <p align="center">
