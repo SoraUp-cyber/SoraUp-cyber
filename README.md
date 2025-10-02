@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Takori 💻🎮</h1>
 
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/2408955968503539166/A71312AD3823CD9FC1E7858282911CD5AC5E469D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="192" height="192" alt="Takori GIF">
+</p>
+
 <p align="center"><em>Software Developer | Gamer 🎮 | Anime & Tech Enthusiast 🚀</em></p>
 
 ---
